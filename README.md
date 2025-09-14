@@ -1,8 +1,8 @@
-Landing-Page-Web-design
+# CyberDude-Training-Landing-Page-Web-design
 
 ## Screenshots
-(./screenshots/1.png)
+![CyberDude Training](./screenshots/1.png)
 
 ### License: MIT
 ### Author: 
-<a href="https://fb.me/anburocky3" target="_blank">Nizar</a>
+<a href="https://fb.me/anburocky3" target="_blank">Anbuselvan Rocky</a>
